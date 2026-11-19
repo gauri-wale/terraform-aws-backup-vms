@@ -1,0 +1,10 @@
+aws_region  = "eu-west-2"
+project_name = "ec2-backup"
+
+# Replace these placeholders with four real EC2 instance IDs.
+instance_ids = [
+  "i-00000000000000001",
+  "i-00000000000000002",
+  "i-00000000000000003",
+  "i-00000000000000004",
+]
